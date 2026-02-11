@@ -1,0 +1,7 @@
+{
+  "name": "Picnic-dive into communities",
+  "description": "Hi team Picnic os back!!! ",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
